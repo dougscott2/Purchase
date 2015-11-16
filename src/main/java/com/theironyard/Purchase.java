@@ -21,4 +21,5 @@ public class Purchase {
 
     @ManyToOne
     Customer customer;
+
 }
